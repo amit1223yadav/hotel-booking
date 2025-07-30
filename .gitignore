@@ -29,6 +29,6 @@ dist-ssr
 
 node_modules/
 dist/
-.env
+
 .vite
 *.log
